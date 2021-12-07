@@ -1,0 +1,15 @@
+body{
+    color: black;
+    font-family:papyrus;
+
+}
+h2{
+    color:chocolate;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h3{
+    color:rebeccapurple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font: size 12px;
+}
